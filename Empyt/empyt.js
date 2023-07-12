@@ -1,0 +1,1 @@
+console.log("Yan" * 5);
