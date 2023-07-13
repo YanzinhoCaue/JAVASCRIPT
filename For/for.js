@@ -2,6 +2,6 @@
 //   console.log('O numero é: ' + numero);
 // }
 
-for(let i = 100; i > 50; i = i - 1) {
+for(let i = 100; i > 50; i--) {
   console.log('O numero é: ' + i);
 }
